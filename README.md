@@ -27,8 +27,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI-CD](https://img.shields.io/badge/CI/CD-purple?style=for-the-badge&logo=github-actions)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-FAST%20%26%20ZERO%20CONFIG-blueviolet?style=for-the-badge&logo=parcel&logoColor=white)
 ![JetBrainsIDEs](https://img.shields.io/badge/IDEs-lightgrey?style=for-the-badge&logo=intellij-idea)
+
+### CSS Transpilers
+![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass)
+
 
 ## OS
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
