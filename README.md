@@ -1,5 +1,5 @@
 # Hey 👋
-**Je suis Lucas, un étudiant en BTS SIO passionné de développement informatique. Je suis autodidacte et j'aime apprendre de nouveaux langages et frameworks.**
+**Je m'appelle Lucas et je suis actuellement étudiant en BTS SIO (Service Informatique aux Organisations). Je suis passionné par le développement et j'adore apprendre de nouveaux langages et frameworks en autodidacte. Je suis actuellement à la recherche d'une alternance et souhaiterai devenir développeur fullstack.**
 
 ## Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=orange) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
