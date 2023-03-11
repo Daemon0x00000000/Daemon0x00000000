@@ -16,7 +16,7 @@
 
 ## PHP Frameworks
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
-## Back-End Runtimes Environments
+## Back-End Runtime Environments
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
 
