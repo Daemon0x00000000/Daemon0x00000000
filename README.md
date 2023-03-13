@@ -31,9 +31,5 @@
 ![Parcel](https://img.shields.io/badge/Parcel-FAST%20%26%20ZERO%20CONFIG-blueviolet?style=for-the-badge&logo=parcel&logoColor=white)
 ![JetBrainsIDEs](https://img.shields.io/badge/IDEs-lightgrey?style=for-the-badge&logo=intellij-idea)
 
-### CSS Transpilers
-![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass)
-
-
 ## OS
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
